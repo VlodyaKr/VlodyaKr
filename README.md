@@ -23,6 +23,6 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vlodyakr&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vlodyakr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vlodyakr&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vlodyakr" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vlodyakr&show_icons=true&theme=dracula&locale=en" alt="vlodyakr" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vlodyakr&show_icons=true&theme=dracula&locale=en" alt="vlodyakr" /></p>
