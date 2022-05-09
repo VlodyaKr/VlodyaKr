@@ -1,6 +1,6 @@
 <img src="header.png" alt="Volodymyr Kravchenko">
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=VlodyaKr)](https://github.com/VlodyaKr/github-readme-activity-graph)
+![](https://komarev.com/ghpvc/?username=VlodyaKr)
 
 <!---
 VlodyaKr/VlodyaKr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
