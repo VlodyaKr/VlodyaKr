@@ -26,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vlodyakr&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vlodyakr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vlodyakr&show_icons=true&theme=dracula&locale=en" alt="vlodyakr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vlodyakr&theme=dark" alt="vlodyakr" /></p>
