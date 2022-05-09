@@ -1,6 +1,6 @@
 <img src="header.png" alt="Volodymyr Kravchenko">
 
-![](https://komarev.com/ghpvc/?username=VlodyaKr)
+![](https://komarev.com/ghpvc/?username=VlodyaKr&style=plastic)
 
 <!---
 VlodyaKr/VlodyaKr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
